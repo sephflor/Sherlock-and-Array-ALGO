@@ -1,1 +1,1 @@
-# Sherlock-and-Array-ALGO
+# Sherlock-and-Array-ALGO.This implementation checks if there exists an element where the sum of elements to its left equals the sum of elements to its right by calculating the total sum first, then iterating while maintaining a running left sum and checking if it equals the remaining sum (total - left - current), efficiently solving the problem in O(n) time complexity.
